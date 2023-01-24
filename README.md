@@ -1,2 +1,2 @@
-# ZAMONA.NET-Video-downloader
+# ZAMONA.NET
 ZAMONA.NET POST 
